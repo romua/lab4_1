@@ -35,7 +35,7 @@
     <form id="form1" runat="server">
         <div class="container">
                 <div class="col-lg-12 text-center">
-                    <h2>APS.NET Lab-1</h2>
+                    <h2>Git LAB1</h2>
                 <div>
                     <asp:TextBox ID="textBoxFirstNumber" runat="server"></asp:TextBox>
                 </div>
