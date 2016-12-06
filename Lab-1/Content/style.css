@@ -1,0 +1,25 @@
+﻿body {
+}
+
+.calc-container{    
+    width: 200px;
+    margin: 100px auto;
+}
+
+.calc-container input[type=text]{
+    width: 200px;
+}
+
+
+.calc-container input[type=submit]{
+    width: 23%;
+}
+
+
+.calc-container div{
+    margin-top: 5px;
+}
+
+#programmaticID {
+    color: red;
+}
