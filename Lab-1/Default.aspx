@@ -13,11 +13,11 @@
             var secondNumber = document.getElementById("textBoxSecondNumber").value;
             if (firstNumber === '')
             {
-                alert("Enter firstNumber ");
+                alert("Enter firstNumber");
                 return false;
             } else if (secondNumber === '')
             {
-                alert("Enter secondNumber ");
+                alert("Enter secondNumber");
                 return false;
             } else if (isNaN(firstNumber))
             {
